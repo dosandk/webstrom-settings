@@ -1,0 +1,153 @@
+<templateSet group="user">
+  <template name="outlo" value="outline: 1px solid orange;" description="" toReformat="false" toShortenFQNames="true" />
+  <template name="outr" value="    outline: $VAR0$ $VAR1$ $VAR2$;" description="outline: 1px solid red;" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;1px&quot;" alwaysStopAt="false" />
+    <variable name="VAR1" expression="" defaultValue="&quot;solid&quot;" alwaysStopAt="false" />
+    <variable name="VAR2" expression="" defaultValue="&quot;red&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="shape" value=".shape_$VAR0$x$VAR0$ {&#10;    width: $VAR0$px;&#10;    height: $VAR0$px;&#10;    border: $VAR1$px;&#10;    border-radius: $VAR2$px;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;30&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;5&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="wq" value="width: $width$;&#10;height: $height$;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="width" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="height" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="tc" value="try {&#10;    $SELECTION$&#10;} catch ($TYPE$ $$$VARIABLENAME$) {&#10;    $END$&#10;}" description="try/catch" toReformat="true" toShortenFQNames="true">
+    <variable name="VARIABLENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="con" value="console.log($SELECTION$);$END$" description="typing console.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="conr" value="console.error($SELECTION$);$END$" description="typing console.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($END$) {&#10;    &#10;}" description="typing if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="create" value="self.childs.$viewName$ = App.create('View', '$viewName$', 'ui/$viewScope$', { parent: self });&#10;" description="create new view" toReformat="true" toShortenFQNames="true">
+    <variable name="viewName" expression="clipboard()" defaultValue="viewName" alwaysStopAt="true" />
+    <variable name="viewScope" expression="fileNameWithoutExtension()" defaultValue="ui/viewScope" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="extend" value="App.extend('View', '$viewName$', 'main', 'default', {&#10;    el: '#',&#10;    template: 'tpl',&#10;    onInitialize: function() {&#10;        var self = this;&#10;        &#10;        self.render();&#10;    },&#10;    onRender: function() {&#10;        var self = this;&#10;        &#10;        self.$el.html(self.getTemplate(self.template, {&#10;        &#10;        }));&#10;    },&#10;});" description="create view extend" toReformat="true" toShortenFQNames="true">
+    <variable name="viewName" expression="" defaultValue="viewName" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="fun" value="function() {&#10;    $SELECTION$&#10;    $END$&#10;}," description="typing function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ajax" value="    App.ajax({&#10;        dataType: 'json',&#10;        type: 'POST',&#10;        url: App.URL_SERVER + '',&#10;        contentType: 'application/json',&#10;        data: JSON.stringify({}),&#10;        success: function(data) {&#10;            &#10;            self.hideLoader();&#10;        },&#10;        error: function(error) {&#10;            Con.error('Error: ' + error.message);&#10;            self.hideLoader();&#10;        }&#10;    });" description="typing App.ajax" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ini" value="onInitialize: function() {&#10;    var self = this;&#10;    $END$&#10;}," description="typing initialize" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="$" value="$('$VAR1$').$VAR2$" description="typing jquery wrapper" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue=" " alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue=" " alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="e.c" value="e.currentTarget" description="typing e.currentTarget" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cont" value="console.time('timer');&#10;$SELECTION$&#10;console.timeEnd('timer');" description="typing console.time('timer');" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cons" value="console.log(&quot;$SELECTION$: &quot;, $SELECTION$);$END$" description="typing console.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="if%" value="&lt;% if ($END$) { %&gt;&#10;&#10;&lt;% } else { %&gt;&#10;&#10;&lt;% } %&gt;" description="typing if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="con%" value="&lt;% console.log($end$) %&gt;" description="typing console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="each" value="$.each(self, function (fieldName, fieldContent) {&#10;    if (self.hasOwnProperty(fieldName)) {&#10;        console.log('fieldName', fieldName);&#10;        console.log('fieldContent', fieldContent);&#10;    }&#10;});" description="create jquery each loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch () {&#10;case '':&#10;&#10;    break;&#10;case '':&#10;&#10;    break;&#10;default: &#10;&#10;    break;&#10;}" description="switch pattern" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="define" value="define(&#10;    'views/$scope$',&#10;    [&#10;        ''&#10;    ],&#10;    function(App) {&#10;        App.defineScope('$scope$');&#10;        &#10;        App.extend('View', 'viewName', 'main', 'default', {&#10;            el: '#some-element',&#10;            onInitialize: function() {&#10;                var self = this;&#10;                &#10;            },&#10;            onRender: function() {&#10;                var self = this;&#10;            &#10;            }&#10;        });&#10;        &#10;        return App;&#10;    }&#10;);" description="requirejs 'define' shortcut" toReformat="false" toShortenFQNames="true">
+    <variable name="scope" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cc" value="console.error('');&#10;console.log();" description="typing console.error('') and concole.log();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="validate" value="self.$('.form').validate({&#10;    errorLabelContainer: '#error-notification',&#10;    rules: {&#10;        categories: {&#10;            require_from_group: [1, '.js-popup-interested-category']&#10;        }&#10;    },&#10;    messages: {&#10;        categories: &quot;You should choose at least one category to continue&quot;&#10;    },&#10;    submitHandler: function(form) {&#10;        var formData = App.helpers.form.toJSON($(form));&#10;        &#10;        $.when(self.request()).then(&#10;            function(dataSuccess) {},&#10;            function(dataError) {}&#10;        );&#10;    }&#10;});" description="template for jquery validate" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="when" value="$.when(self.request()).then(&#10;    function(dataSuccess) {},&#10;    function(dataError) {}&#10;);" description="template for jquery when" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="post" value="---&#10;layout: post&#10;title:  &quot;$Title$&quot;&#10;date: $currentDate$&#10;categories: new&#10;---&#10;&#10;### $Title$" description="create post draft" toReformat="false" toShortenFQNames="true">
+    <variable name="Title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="currentDate" expression="date(&quot;yyyy-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="conr%" value="&lt;% console.error($end$) %&gt;" description="typing console.error" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

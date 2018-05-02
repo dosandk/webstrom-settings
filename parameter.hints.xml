@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="Http.get(url,options)" />
+      </blacklist>
+      <blacklist language="PHP">
+        <removed pattern="*.get(*)" />
+        <removed pattern="" />
+      </blacklist>
+    </blacklists>
+    <option id="php.show.names.for.all.args" value="true" />
+  </component>
+</application>

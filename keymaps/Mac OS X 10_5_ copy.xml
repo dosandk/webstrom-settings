@@ -1,0 +1,6 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+    <keyboard-shortcut first-keystroke="shift meta back_space" second-keystroke="shift alt q" />
+  </action>
+</keymap>

@@ -326,6 +326,10 @@
           <option name="url" value="https://github.com/eagleinvsys/ui-shared" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eagleinvsys/ui-container.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />

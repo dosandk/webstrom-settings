@@ -323,7 +323,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/eagleinvsys/ui-shared" />
+          <option name="url" value="https://github.com/eagleinvsys/ui-shared.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -332,7 +332,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\volodymyr.shevchuk\Desktop" />

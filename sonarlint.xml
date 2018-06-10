@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://localhost:9000" />
-          <token>df9ddfcbdfcfdf92df9ddfc8df9ddfc8df99df93df9adf9ddfccdfc8dfcfdfcbdf9bdfcfdf9edf9edf93dfcedf9bdf9ddf93df9adfc8df9edfcedf9ddfcbdf92df9bdf9ddf93df9ddf9edfc8df93df9f</token>
+          <token>df9adf93df98df9bdf9adfc9dfc9df9fdf9fdf92dfcedf93dfcfdf9adfc8dfcfdf9adf98dfc9df9edfccdfcbdfc9dfccdf93dfc9df9ddf9cdf92dfc8dfccdf98df9adf9edf9fdf9fdf9bdf9adfcbdfcc</token>
           <option name="name" value="local" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>

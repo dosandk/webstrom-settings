@@ -338,9 +338,17 @@
           <option name="url" value="https://gitlab2.eleks-software.local/delta-chat/frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/max-arzubov.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/vitaliy-oleksyn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\volodymyr.shevchuk\Desktop" />

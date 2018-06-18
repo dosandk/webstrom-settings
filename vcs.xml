@@ -339,16 +339,24 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/max-arzubov.git" />
+          <option name="url" value="https://github.com/Eleks-front-camp/javascript-koans.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/vitaliy-oleksyn.git" />
+          <option name="url" value="https://github.com/blueshen/Karma-mocha-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ebidel/headless-karma-travis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://volodymyr_sh@bitbucket.org/EIS_DevOps/dash.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\volodymyr.shevchuk\Desktop" />

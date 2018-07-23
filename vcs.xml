@@ -386,6 +386,10 @@
           <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/oleh-svyryd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ITEAHub-bootcamp/React-step-by-step-tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />

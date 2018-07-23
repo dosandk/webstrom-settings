@@ -394,6 +394,9 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\volodymyr.shevchuk\Desktop" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />

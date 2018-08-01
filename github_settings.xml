@@ -1,7 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="dosandkv@gmail.com" />
-    <option name="HOST" value="https://github.com/" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="d9ba7157-5ab4-4b64-9703-364eeea3e158" name="dosandk">
+      <server host="github.com" />
+    </account>
   </component>
 </application>

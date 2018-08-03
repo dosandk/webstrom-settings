@@ -406,6 +406,10 @@
           <option name="url" value="https://github.com/dosandk/storybook-experements.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/storybook-angular-experiments.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />

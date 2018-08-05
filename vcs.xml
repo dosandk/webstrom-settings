@@ -406,6 +406,10 @@
           <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/serhii-yakymuk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FlorianRappl/pwa-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />

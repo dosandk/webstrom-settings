@@ -398,6 +398,14 @@
           <option name="url" value="https://github.com/Eleks-front-camp/jigsaw-puzzle-game.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/" />
+          <option name="userName" value="dosandk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="dosandk" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />

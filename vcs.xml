@@ -399,12 +399,28 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com/" />
+          <option name="url" value="http://github.com" />
           <option name="userName" value="dosandk" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="dosandk" />
+          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/serhii-yakymuk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FlorianRappl/pwa-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/react-native/RNTrainings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vl-shevchuk/foo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/" />
+          <option name="userName" value="vl-shevchuk" />
         </UrlAndUserName>
       </list>
     </option>

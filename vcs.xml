@@ -430,6 +430,10 @@
           <option name="url" value="https://github.com/dosandk/angular-rxjs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Front-Camp/first-assignment-LightOri.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />

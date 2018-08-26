@@ -438,9 +438,17 @@
           <option name="url" value="https://github.com/dosandk/sandbox-vanilla-js-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab2.eleks-software.local:443" />
+          <option name="userName" value="volodymyr.shevchuk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab2.eleks-software.local/gap-analysis/mariana-pyrih.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

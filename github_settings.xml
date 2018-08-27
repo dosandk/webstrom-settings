@@ -1,7 +1,12 @@
 <application>
   <component name="GithubAccounts">
-    <account id="ae78713b-dcbf-4cbc-a95f-66f5c3d5546e" name="dosandk">
+    <account id="f4b07b56-93a3-40ca-93aa-ebe8379730cb" name="dosandk">
       <server host="github.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="dosandk" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>

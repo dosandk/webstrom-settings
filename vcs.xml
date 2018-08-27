@@ -446,6 +446,10 @@
           <option name="url" value="http://gitlab2.eleks-software.local/gap-analysis/mariana-pyrih.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/volochiy.s/starter-react-ts-redux-rxjs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />

@@ -420,7 +420,23 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com/" />
-          <option name="userName" value="vl-shevchuk" />
+          <option name="userName" value="dosandk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Front-Camp/first-assignment-m1stwalk3r.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/roblouie/unit-testing-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Front-Camp/first-assignment-Roman1488.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/sandbox-vanilla-js-template.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>

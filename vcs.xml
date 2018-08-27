@@ -420,7 +420,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com/" />
-          <option name="userName" value="dosandk" />
+          <option name="userName" value="vl-shevchuk" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Front-Camp/first-assignment-m1stwalk3r.git" />
@@ -448,6 +448,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitlab2.eleks-software.local/volochiy.s/starter-react-ts-redux-rxjs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/react-redux.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/react-mobx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

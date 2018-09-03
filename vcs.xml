@@ -420,7 +420,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com/" />
-          <option name="userName" value="dosandk" />
+          <option name="userName" value="vl-shevchuk" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Front-Camp/first-assignment-m1stwalk3r.git" />
@@ -439,12 +439,36 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Front-Camp/test-questions.git" />
+          <option name="url" value="http://gitlab2.eleks-software.local:443" />
+          <option name="userName" value="volodymyr.shevchuk" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab2.eleks-software.local/gap-analysis/mariana-pyrih.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/volochiy.s/starter-react-ts-redux-rxjs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/react-redux.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/react-mobx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/react-redux-tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dosandk/codesandbox-react-typescript.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

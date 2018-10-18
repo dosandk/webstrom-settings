@@ -506,9 +506,13 @@
           <option name="url" value="https://github.com/kova1max/tags-input.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/eagleinvsys/reports-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

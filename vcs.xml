@@ -578,9 +578,17 @@
           <option name="url" value="https://github.com/vasyldzhala/react-challenge-3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/gap-analysis/feedback-templates.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab2.eleks-software.local/frontend-stream/external-interviews.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\volodymyr.shevchuk\WebstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />

@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="CodeHistoryMiningPopup">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
@@ -11,8 +14,23 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
   </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="shift meta back_space" second-keystroke="shift alt q" />
   </action>
+  <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
 </keymap>

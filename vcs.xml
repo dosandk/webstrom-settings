@@ -14,6 +14,14 @@
           <option name="url" value="https://github.com/bradtraversy/docker-node-mongo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="sh_volodymyr" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sh_volodymyr@bitbucket.org/globaltechmakers/24bas-fe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />

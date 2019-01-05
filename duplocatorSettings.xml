@@ -2,12 +2,21 @@
   <component name="DuplocatorSettings">
     <option name="SELECTED_PROFILES">
       <set>
+        <option value="CSS" />
         <option value="ECMAScript 6" />
-        <option value="Flow JS" />
-        <option value="JSX Harmony" />
+        <option value="HTML" />
         <option value="JavaScript" />
+        <option value="TypeScript" />
       </set>
     </option>
-    <option name="LAST_SELECTED_LANGUAGE" value="JSX Harmony" />
+    <option name="LAST_SELECTED_LANGUAGE" value="HTML" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="HTML">
+      <option name="LOWER_BOUND" value="2" />
+    </object>
+    <object language="TypeScript">
+      <option name="DISTINGUISH_VARIABLES" value="true" />
+    </object>
   </component>
 </application>

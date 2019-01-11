@@ -70,6 +70,14 @@
           <option name="url" value="https://sh_volodymyr@bitbucket.org/globaltechmakers/futurecloud-fe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sh_volodymyr@bitbucket.org/globaltechmakers/eviguard-fe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sh_volodymyr@bitbucket.org/globaltechmakers/gtm-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/globaltechmakers" />

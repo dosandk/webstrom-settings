@@ -82,6 +82,14 @@
           <option name="url" value="https://sh_volodymyr@bitbucket.org/globaltechmakers/fn-fe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/NazarKupr/Party-picker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Anri1214/japanese-nonograms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/globaltechmakers" />

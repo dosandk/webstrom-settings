@@ -114,10 +114,9 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://localhost:9000" />
+          <option name="hostUrl" value="http://localhost:9000/" />
+          <token>dfc9df9fdfc8df9cdf93df99df98dfc8df9adf9bdfccdf92dfccdfcbdf9cdf9ddf9bdfc8df99dfcfdf9fdfc9df93df9ddf9adf9bdf99df9ddf9ddfccdfcfdfccdf9edfcfdfcbdf99df9ddf9adf93dfcb</token>
           <option name="name" value="local" />
-          <option name="login" value="admin" />
-          <password>dfcbdfcedfc7dfc3dfc4</password>
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>

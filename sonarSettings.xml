@@ -8,11 +8,6 @@
           <option name="passwordChanged" value="true" />
           <option name="user" value="admin" />
         </SonarServerConfig>
-        <SonarServerConfig>
-          <option name="hostUrl" value="http://localhost:9000" />
-          <option name="name" value="fn-fe" />
-          <option name="user" value="admin" />
-        </SonarServerConfig>
       </list>
     </option>
   </component>

@@ -150,6 +150,10 @@
           <option name="url" value="https://github.com/coreui/coreui-free-vue-admin-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ngx-rocket/starter-kit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/globaltechmakers" />

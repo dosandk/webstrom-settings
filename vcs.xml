@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/bradtraversy/gatsby_crash_course.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yahoo/react-intl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects/globaltechmakers/LUKSPAY" />

@@ -1,5 +1,5 @@
 <templateSet group="Redux">
-  <template name="r-connect" value="const mapStateToProps = () =&gt; {&#10;  &#10;};&#10;&#10;const mapActionsToProps = () =&gt; {&#10;  &#10;};&#10;&#10;export default connect(mapStateToProps, mapActionsToProps)();" toReformat="false" toShortenFQNames="true">
+  <template name="r-connect" value="const mapStateToProps = () =&gt; {&#10;  &#10;};&#10;&#10;const mapActionsToProps = () =&gt; {&#10;  &#10;};&#10;&#10;export default connect(mapStateToProps, mapActionsToProps)();" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
